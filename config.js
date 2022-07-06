@@ -5,7 +5,7 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['+62 882-2775-8096'],
-  ['+62 882-2775-8096', 'ᴅᴀɴɪ ᴏғғᴄɪᴀʟ👑', true],
+  ['+62 882-2775-8096', 'FachriOfc👑', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -34,11 +34,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ᴅᴀɴɪʙᴏᴛᴢ_ᴏғᴄ あ⁩ 」' //Main Watermark
+global.wm = '                「 FachriOfc あ⁩ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - ᴅᴀɴɪ👑˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ Fazh 𝗕𝗢𝗧'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -47,7 +47,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 ᴅᴀɴɪʙᴏᴛᴢ_ᴏғᴄ あ⁩ 」'
+global.author = '                「 FachriOfc あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -63,7 +63,7 @@ global.flaaa = [
   'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
   'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
  ]
-global.sgc = 'https://chat.whatsapp.com/KiKVjpgL4EH6i0kMUtlEJz'
+global.sgc = 'https://chat.whatsapp.com/H6Cd0zAAI7Y0kTAxOgzeGN'
 global.sig = 'https://www.instagram.com/bot_whangsaf'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
@@ -84,13 +84,13 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://telegra.ph/file/ae610571b62b5ab876e9c.jpg', 'https://telegra.ph/file/cc8255d5b989eef587af2.jpg','https://telegra.ph/file/30d2e7375996abd9cfee3.jpg']
 /*============== NOMOR ==============*/
-global.nomorbot = '6281214020357'
-global.nomorown = '6281251549899'
-global.namebot = 'ᴅᴀɴɪʙᴏᴛᴢ_ᴏғᴄ'
-global.nameown = 'ᴅᴀɴɪ ᴏғғᴄɪᴀʟ👑'
+global.nomorbot = '6281225969756'
+global.nomorown = '6288227758096'
+global.namebot = 'FazhBot'
+global.nameown = 'FachriOfc👑'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
+global.fsizedoc = '99999999999999' // default 10GB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
