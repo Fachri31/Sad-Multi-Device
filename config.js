@@ -9,7 +9,7 @@ global.owner = [
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = [+62 896-3091-0523] // Premium user has unlimited limit
 global.lolkey = 'YourApikey'
 global.xkey = 'YourApikey'
 global.APIs = { // API Prefix
